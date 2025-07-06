@@ -32,5 +32,4 @@ Getting started
 npm install
 3.Run development server:
 npm run dev
-
-![image](https://github.com/user-attachments/assets/07b089c2-3686-4e09-b7a2-1fae1171cb2f)
+https://github.com/user-attachments/assets/07b089c2-3686-4e09-b7a2-1fae1171cb2f
